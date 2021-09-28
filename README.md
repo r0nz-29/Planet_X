@@ -1,5 +1,6 @@
 # Planet_X
-Kind of open world 3D game.  
+Kind of open world 3D game which directly runs in the browser. 
+(Under development)
 
 ## Current status :
 ![2021-09-17_00-28](https://user-images.githubusercontent.com/76162540/133676717-e51b6f0c-9192-43c8-9e57-2c09341eb43e.png)
